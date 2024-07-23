@@ -13,19 +13,18 @@
 </p>
 <br>
 
-- 🌍 I'm based in İstanbul-Eskişehir
+- 🌍 I'm based in İstanbul-Edirne
 
-- 🔭 I’m currently working on **Data Science and Python**
+- 🔭 I’m currently working on **Data Science and Python
 
-- 🌱 I’m currently learning **Python**, **R**, **MATLAB**
+- 🌱 I’m currently learning **Python**, **Pandas**, **Numpy**
 
-- 📫 How to reach me **fatmaakpunar42@gmail.com**
+- 📫 How to reach me **hsyndvlpr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fatmaakpunar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatmaakpunar" height="30" width="40" /></a>
-<a href="https://instagram.com/statisticstudent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="statisticstudent" height="30" width="40" /></a>
-<a href="https://medium.com/@fatmaakpunar42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fatmaakpunar42" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/hsynylcn22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatmaakpunar" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
