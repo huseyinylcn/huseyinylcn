@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- <p align="left">
+    <p align="left">
       <a  rel="noreferrer">
         <img
           src="http://admin.tarihiyazilar.com/img/MezarFotograf/abd11c39a776697800a19c72300f0f79d2475e71352c1227b16d8db762052edb.svg"
@@ -81,6 +81,22 @@
         <img
           src="http://admin.tarihiyazilar.com/img/MezarFotograf/522aa1a379a2c4bcaa70cdcf1db93a06fbc2a7408c2ca6ae002f25a56ec8c9a5.svg"
           alt="Javascript"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a rel="noreferrer">
+        <img
+          src="http://admin.tarihiyazilar.com/img/MezarFotograf/1459c650390f61f0cdd94497dab7dd82a2c0eba9f1cbc4219ba990ea44a8919f.svg"
+          alt="CSS"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a rel="noreferrer">
+        <img
+          src="http://admin.tarihiyazilar.com/img/MezarFotograf/e8a6bbc938a45bfc2cfc3a9ed0db132e1f6a57709e3f0fed2797b70ab0f563d1.svg"
+          alt="HTML"
           width="40"
           height="40"
         />
