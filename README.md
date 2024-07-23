@@ -28,4 +28,61 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+ <p align="left">
+      <a  rel="noreferrer">
+        <img
+          src="http://admin.tarihiyazilar.com/img/MezarFotograf/abd11c39a776697800a19c72300f0f79d2475e71352c1227b16d8db762052edb.svg"
+          alt="Angular"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a  rel="noreferrer">
+        <img
+          src="http://admin.tarihiyazilar.com/img/MezarFotograf/ed91d0c7fab9e6f72da15091c876d6087cdfd2258bb6c74ae993bf72be6d450d.svg"
+          alt="Git"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a rel="noreferrer">
+        <img
+          src="http://admin.tarihiyazilar.com/img/MezarFotograf/7b5da13473064530b384489b1cb5c49bad4b70548ac19837320f6df814194f25.svg"
+          alt="SQL"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a rel="noreferrer">
+        <img
+          src="http://admin.tarihiyazilar.com/img/MezarFotograf/a56d89743db9490254647df753ecd11c3863cb7922ee5e65dfc83b8d4d98bd9a.svg"
+          alt="Electron"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a rel="noreferrer">
+        <img
+          src="http://admin.tarihiyazilar.com/img/MezarFotograf/9b44394c57cebd6b1bfca9edca39dc1a030d724d1baf4d302bd0789f5b5947cd.svg"
+          alt="Python"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a rel="noreferrer">
+        <img
+          src="http://admin.tarihiyazilar.com/img/MezarFotograf/f1949746670f495b155858d8f656c8851f6a9b288d2019c7347d1969ee8130c3.svg"
+          alt="TypeScript"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a rel="noreferrer">
+        <img
+          src="http://admin.tarihiyazilar.com/img/MezarFotograf/522aa1a379a2c4bcaa70cdcf1db93a06fbc2a7408c2ca6ae002f25a56ec8c9a5.svg"
+          alt="Javascript"
+          width="40"
+          height="40"
+        />
+      </a>
+    </p>
