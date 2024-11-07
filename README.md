@@ -22,10 +22,10 @@
 - 📫 How to reach me **hsyndvlpr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display:flex;">
 <a href="www.linkedin.com/in/hsynylcn22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatmaakpunar" height="30" width="40" /></a>
     
-<a href="https://medium.com/https://medium.com/@hsynylcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@hsynylcn" height="30" width="40" /></a>
+<a href="https://medium.com/@hsynylcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@hsynylcn" height="30" width="40" /></a>
     
 
 
