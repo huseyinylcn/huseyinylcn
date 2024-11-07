@@ -31,7 +31,7 @@
     <p align="left">
       <a  rel="noreferrer">
         <img
-          src="http://admin.tarihiyazilar.com/img/MezarFotograf/abd11c39a776697800a19c72300f0f79d2475e71352c1227b16d8db762052edb.svg"
+          src="https://angular.io/assets/images/logos/angular/angular.svg"
           alt="Angular"
           width="40"
           height="40"
@@ -39,7 +39,7 @@
       </a>
       <a  rel="noreferrer">
         <img
-          src="http://admin.tarihiyazilar.com/img/MezarFotograf/ed91d0c7fab9e6f72da15091c876d6087cdfd2258bb6c74ae993bf72be6d450d.svg"
+          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
           alt="Git"
           width="40"
           height="40"
@@ -47,7 +47,7 @@
       </a>
       <a rel="noreferrer">
         <img
-          src="http://admin.tarihiyazilar.com/img/MezarFotograf/7b5da13473064530b384489b1cb5c49bad4b70548ac19837320f6df814194f25.svg"
+          src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
           alt="SQL"
           width="40"
           height="40"
@@ -55,7 +55,7 @@
       </a>
       <a rel="noreferrer">
         <img
-          src="http://admin.tarihiyazilar.com/img/MezarFotograf/a56d89743db9490254647df753ecd11c3863cb7922ee5e65dfc83b8d4d98bd9a.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
           alt="Electron"
           width="40"
           height="40"
@@ -63,7 +63,7 @@
       </a>
       <a rel="noreferrer">
         <img
-          src="http://admin.tarihiyazilar.com/img/MezarFotograf/9b44394c57cebd6b1bfca9edca39dc1a030d724d1baf4d302bd0789f5b5947cd.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
           alt="Python"
           width="40"
           height="40"
@@ -71,7 +71,7 @@
       </a>
       <a rel="noreferrer">
         <img
-          src="http://admin.tarihiyazilar.com/img/MezarFotograf/f1949746670f495b155858d8f656c8851f6a9b288d2019c7347d1969ee8130c3.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
           alt="TypeScript"
           width="40"
           height="40"
@@ -79,7 +79,7 @@
       </a>
       <a rel="noreferrer">
         <img
-          src="http://admin.tarihiyazilar.com/img/MezarFotograf/522aa1a379a2c4bcaa70cdcf1db93a06fbc2a7408c2ca6ae002f25a56ec8c9a5.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
           alt="Javascript"
           width="40"
           height="40"
@@ -87,7 +87,7 @@
       </a>
       <a rel="noreferrer">
         <img
-          src="http://admin.tarihiyazilar.com/img/MezarFotograf/1459c650390f61f0cdd94497dab7dd82a2c0eba9f1cbc4219ba990ea44a8919f.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
           alt="CSS"
           width="40"
           height="40"
@@ -95,7 +95,7 @@
       </a>
       <a rel="noreferrer">
         <img
-          src="http://admin.tarihiyazilar.com/img/MezarFotograf/e8a6bbc938a45bfc2cfc3a9ed0db132e1f6a57709e3f0fed2797b70ab0f563d1.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
           alt="HTML"
           width="40"
           height="40"
