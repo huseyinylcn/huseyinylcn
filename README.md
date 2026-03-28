@@ -7,25 +7,23 @@
 
 <br>
 
-- 🌍 I'm based in İstanbul-Edirne
 
-## 🚀 Distributed Systems & High-Performance Backends
+### 🚀 Distributed Systems & High-Performance Backends
 
-- 🔭 **Current Focus:** Building ultra-scalable, event-driven services and optimizing Node.js performance for high-traffic environments.
+- 🔭 **Current Focus:** Architecting scalable, fault-tolerant backend services and optimizing Node.js performance for high-traffic environments.
 - ⚡ **Backend Mastery:** Deep diving into **Node.js Internals**, **Asynchronous Patterns**, and **Distributed Caching (Redis)**.
-- 🛠 **System Architecture:** Implementing **Event-Driven Architectures** using **Kafka** and messaging patterns like **Saga/Outbox** for data consistency.
-- 🏗 **Infrastructure:** Orchestrating containerized services on **Kubernetes** and fine-tuning **Couchbase & PostgreSQL** performance.
-- 🎯 **Goal:** Architecting resilient, loosely coupled systems that handle millions of daily active users without breaking a sweat.
+- 🛠 **System Design:** Implementing advanced messaging patterns like **Saga, Outbox, and Transactional Messaging** with **Kafka**.
+- 🏗 **Infrastructure:** Scaling containerized applications on **Kubernetes** and fine-tuning **NoSQL** performance (**Couchbase**, **PostgreSQL**).
+- 🎯 **Goal:** Building resilient systems that handle millions of requests while maintaining zero-downtime and data consistency.
 
 ---
 
 ### 🛠 Tech Stack & Tools
 - **Runtime:** Node.js (TypeScript / NestJS / Express)
-- **Infrastructure:** Docker, Kubernetes, CI/CD Pipelines
-- **Databases & Caching:** Redis, Couchbase, PostgreSQL, Elasticsearch
-- **Messaging:** Kafka, RabbitMQ
-- **Core Principles:** Clean Code, SOLID, Hexagonal Architecture, and Fault-Tolerance.
-
+- **Messaging:** Kafka, RabbitMQ, Redis Pub/Sub
+- **Databases:** Couchbase, PostgreSQL, Elasticsearch, MongoDB, MSSQL, MYSQL
+- **Infrastructure:** Docker, Kubernetes, CI/CD Pipelines, Terraform
+- **Methodologies:** Clean Code, TDD, Hexagonal Architecture, Domain-Driven Design (DDD)
 - 📫 How to reach me **hsyndvlpr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
