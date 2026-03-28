@@ -9,9 +9,22 @@
 
 - 🌍 I'm based in İstanbul-Edirne
 
-- 🔭 I’m currently working on **Data Science and Python
+## 🚀 Distributed Systems & High-Performance Backends
 
-- 🌱 I’m currently learning **Python**, **Pandas**, **Numpy**
+- 🔭 **Current Focus:** Building ultra-scalable, event-driven services and optimizing Node.js performance for high-traffic environments.
+- ⚡ **Backend Mastery:** Deep diving into **Node.js Internals**, **Asynchronous Patterns**, and **Distributed Caching (Redis)**.
+- 🛠 **System Architecture:** Implementing **Event-Driven Architectures** using **Kafka** and messaging patterns like **Saga/Outbox** for data consistency.
+- 🏗 **Infrastructure:** Orchestrating containerized services on **Kubernetes** and fine-tuning **Couchbase & PostgreSQL** performance.
+- 🎯 **Goal:** Architecting resilient, loosely coupled systems that handle millions of daily active users without breaking a sweat.
+
+---
+
+### 🛠 Tech Stack & Tools
+- **Runtime:** Node.js (TypeScript / NestJS / Express)
+- **Infrastructure:** Docker, Kubernetes, CI/CD Pipelines
+- **Databases & Caching:** Redis, Couchbase, PostgreSQL, Elasticsearch
+- **Messaging:** Kafka, RabbitMQ
+- **Core Principles:** Clean Code, SOLID, Hexagonal Architecture, and Fault-Tolerance.
 
 - 📫 How to reach me **hsyndvlpr@gmail.com**
 
